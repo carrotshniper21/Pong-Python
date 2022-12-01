@@ -1,4 +1,4 @@
 # Pong-Python
 
-# How to run
+# Run
   `pip install -r requirements.txt`
